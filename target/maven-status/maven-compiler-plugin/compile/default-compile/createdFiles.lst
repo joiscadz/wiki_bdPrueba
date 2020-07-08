@@ -1,0 +1,10 @@
+com/wiki_bdPrueba/wiki_bdPrueba/Service/AutosService.class
+com/wiki_bdPrueba/wiki_bdPrueba/Repository/AutosRepository.class
+com/wiki_bdPrueba/wiki_bdPrueba/Entity/Autos.class
+com/wiki_bdPrueba/wiki_bdPrueba/Models/Response.class
+com/wiki_bdPrueba/wiki_bdPrueba/Util/Constantes.class
+com/wiki_bdPrueba/wiki_bdPrueba/Controller/AutosController.class
+com/wiki_bdPrueba/wiki_bdPrueba/Exceptions/ExceptionsWiki.class
+com/wiki_bdPrueba/wiki_bdPrueba/Util/WikiUtils.class
+com/wiki_bdPrueba/wiki_bdPrueba/WikApplication$1.class
+com/wiki_bdPrueba/wiki_bdPrueba/WikApplication.class
